@@ -1,0 +1,3 @@
+/home/himani/Desktop/SciVIs/Proj7/CMakeFiles/edit_cache.dir
+/home/himani/Desktop/SciVIs/Proj7/CMakeFiles/proj7.dir
+/home/himani/Desktop/SciVIs/Proj7/CMakeFiles/rebuild_cache.dir
